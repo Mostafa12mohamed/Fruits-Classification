@@ -1,5 +1,5 @@
 # Fruit Classification Project
-## Project at Nti Summer Training
+### Project at Nti Summer Training
 
 ### Fruit Classification using Deep Learning!
 In this project, I implemented several state-of-the-art models to accurately classify different types of fruits:
