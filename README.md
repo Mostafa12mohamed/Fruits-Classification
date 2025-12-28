@@ -1,4 +1,4 @@
-# Fruit Classification Project
+# Tomato Quality Assessment Using Deep Learning
 ### Project at Nti Summer Training
 
 #### Fruit Classification using Deep Learning!
